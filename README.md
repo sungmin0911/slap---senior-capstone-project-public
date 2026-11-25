@@ -8,7 +8,7 @@ Penn State College of Engineering senior capstone, Fall 2026. Industry-sponsored
 
 ## Demo
 
-![SLAP chat interface with local model picker](images/chat-ui.png)
+![SLAP chat interface with local model picker](chat-ui.png)
 
 *The chat interface running fully offline, with a picker for the locally installed models.*
 
@@ -21,7 +21,7 @@ Penn State College of Engineering senior capstone, Fall 2026. Industry-sponsored
 
 ## Architecture
 
-![SLAP architecture: nginx is the only routable entry point; Open WebUI, Ollama and Qdrant sit on sealed internal networks with no route to the internet](images/architecture.png)
+![SLAP architecture: nginx is the only routable entry point; Open WebUI, Ollama and Qdrant sit on sealed internal networks with no route to the internet](architecture.png)
 
 | Service    | Role                                                         |
 | ---------- | ------------------------------------------------------------ |
